@@ -1,0 +1,4 @@
+{
+    "@odata.context": "https://lab4aisearch.search.windows.net/indexes('coffee-index')/$metadata#docs(*)",
+    "value": []
+  }
